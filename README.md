@@ -27,7 +27,6 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 - Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
 
 ## Application demo
-[View demo in your browser](https://forkify-api.herokuapp.com/v2)
 <img src='./src/img/demo.png' alt='Forkify preview' >
 
 ## Features
