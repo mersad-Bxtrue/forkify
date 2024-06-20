@@ -76,7 +76,7 @@ This project require some prequesites and dependenscies to be installed, you can
 1. Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
 2. Clone the repo
    ```sh
-   git clone https://github.com/catherineisonline/forkify
+   git clone https://github.com/mersad-Bxtrue/forkify.git
    ```
 3. Go to project folder
     ```sh
