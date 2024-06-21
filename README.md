@@ -26,7 +26,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 - Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
 
-## Application demo
+## Application Demo
 <img src='./src/img/demo.png' alt='Forkify preview' >
 
 ## Features
@@ -95,7 +95,7 @@ This project require some prequesites and dependenscies to be installed, you can
     npm run start
     ```
 
-## Tree structure
+## Tree Structure
 
 ```
 forkify
